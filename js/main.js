@@ -144,7 +144,6 @@ let lives = parseInt(amountOfLives.innerHTML);
       console.log("colision");
       return true;
     }else{
-      console.log("no colision");
       return false;
     }
   }
